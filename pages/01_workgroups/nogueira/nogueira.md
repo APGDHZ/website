@@ -19,11 +19,6 @@ Professor for Auditory Prosthesis
   based on Psychoacoustic Masking and Current Steering)
 * 1997-2003 (Dipl.-Ing) Universitat Politecnica de Catalunya, Barcelona, Spain
   (Master Thesis: Envelope estimation for audio signals based on predictive techniques in the frequency domain)
-* Master of Science at the Gottfried Wilhelm Leibniz University Hannover
-  (Thesis: Conception and implementing of a RICT-based, mobile hardware platform for real-time capable movement sonification, Institute     of Microelectronic Systems (IMS), Hannover)
-* Bachelor of Engineering at the University of Applied Sciences and Arts, Hannover
-  (Thesis: Integration of a reverberation algorithm into SAOC-Binaural, Fraunhofer Institute for Integrated Circuits IIS)
-
 
 **Research and Interests**
 
@@ -41,7 +36,6 @@ electrophysiology in humans, binaural hearing
 	Karl-Wiechert-Allee 3
 	30625 Hannover
 	nogueiravazquez.waldo(at)mh-hannover.de
-
 
 
 
